@@ -1,4 +1,4 @@
-
+We are going to go through the basics of using tiles and tile mapping in class, and you have been emailed a GitHub repo to use. I will provide more video links later.
 
 On the new Unity Tile Set (more convenient than starting with the older Tilemap).
 
